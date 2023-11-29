@@ -1,0 +1,3 @@
+title:Season 23 - Season of the Wish
+//Undercurrent (Vanguard Arc Wave GL)
+dimwishlist:item=1151688091&perks=981914802,2822142346,2010801679,2173046394
